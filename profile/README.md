@@ -1,38 +1,39 @@
 <div align="center">
 
-# DEWIBE
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0f172a,100:13B9FD&height=160&section=header&text=DEWIBE%20IT%20AGENCY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20Apps%20%E2%80%A2%20Enterprise%20ERP%2FPOS%20%E2%80%A2%20AI%20%26%20Telegram%20Mini%20Apps&descAlignY=58&descSize=16" width="100%" />
 
-**Software development team from Tashkent, Uzbekistan 🇺🇿**
+**🇺🇿 Full-Cycle Software Engineering & AI Product Studio based in Tashkent, Uzbekistan**
 
-Flutter · Web · AI · Telegram bots
-
-[![Website](https://img.shields.io/badge/dewibe--agency.uz-02569B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dewibe-agency.uz/uz)
-[![Email](https://img.shields.io/badge/hello@dewibe.uz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@dewibe.uz)
+[![Website](https://img.shields.io/badge/🌐%20dewibe--agency.uz-02569B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dewibe-agency.uz/uz)
+[![Email](https://img.shields.io/badge/✉️%20hello@dewibe.uz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@dewibe.uz)
 
 </div>
 
 ---
 
-### What we do
+### 🚀 What We Build
 
-| | |
-|---|---|
-| 📱 **Mobile apps** | iOS and Android with Flutter |
-| 🌐 **Web** | Websites, online stores, landing pages |
-| 📊 **CRM / ERP** | Business management systems |
-| 🤖 **Telegram bots** | Bots and Mini Apps, including Payme and Click payments |
-| 🧠 **AI** | LLM-powered products and integrations |
+| Domain | Engineering Capabilities |
+| :--- | :--- |
+| 📱 **Mobile Applications** | High-performance iOS & Android apps engineered with **Flutter** & Clean Architecture |
+| 🏪 **POS, CRM & ERP Systems** | End-to-end business automation, inventory, accounting & Point-of-Sale platforms |
+| 🤖 **AI & Telegram Mini Apps** | Autonomous LLM sales agents, Telegram WebApps, and **Payme / Click** payment pipelines |
+| 🌐 **Web & Cloud Platforms** | Scalable backends (**FastAPI**, **Django**, **Serverpod**) & modern web portals (**Next.js**, **React**) |
 
-We also work as an extra development team for agencies and product companies.
+---
 
-### Products
+### 🏆 Flagship Products
 
-- **🩺 UzCure**: telemedicine and rehabilitation platform. *Flutter, FastAPI, Azure*
-- **🏠 Uzrent**: multi-category rental marketplace. *Flutter, React, TypeScript*
-- **🤖 TeleSeller AI**: AI sales assistant for Telegram stores, our own SaaS. *LLM, Telegram Bot API, Mini Apps*
+- **🩺 UzCure** — Telemedicine & digital rehabilitation platform (Flutter • FastAPI • PostgreSQL • Azure)
+- **🏪 Baraka POS & DEWIBE ERP** — Cross-platform Point-of-Sale & retail management suite (Flutter Mobile/Web • Python)
+- **🏠 UzRent (Rentify)** — Multi-category rental marketplace (Flutter • React • TypeScript • Python)
+- **🤖 TeleSeller AI** — Autonomous LLM sales assistant for Telegram commerce (LLM • Telegram Bot API • Mini Apps • Docker)
+- **📊 Hisobchi** — Smart business finance & accounting system (Flutter • TypeScript • REST API)
 
-### Stack
+---
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,react,ts,firebase,postgres,docker,nginx,azure&theme=dark" />
+### 🛠 Technology Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,django,ts,react,nextjs,postgres,firebase,docker,nginx,azure&theme=dark" />
 </p>

@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,50:0f172a,100:13B9FD&height=160&section=header&text=DEWIBE%20IT%20AGENCY&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Mobile%20Apps%20%E2%80%A2%20Enterprise%20ERP%2FPOS%20%E2%80%A2%20AI%20%26%20Telegram%20Mini%20Apps&descAlignY=58&descSize=16" width="100%" />
+# 🚀 DEWIBE IT AGENCY
 
 **🇺🇿 Full-Cycle Software Engineering & AI Product Studio based in Tashkent, Uzbekistan**
 
@@ -11,7 +11,7 @@
 
 ---
 
-### 🚀 What We Build
+### 💡 What We Build
 
 | Domain | Engineering Capabilities |
 | :--- | :--- |
